@@ -20,3 +20,10 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidasifmalik&show_icons=true&locale=en&layout=compact" alt="zaidasifmalik" /></p>-->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidasifmalik&show_icons=true&locale=en" alt="zaidasifmalik" /></p>-->
+<br>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidasifmalik&show_icons=true&locale=en" alt="zaidasifmalik" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidasifmalik&show_icons=true&locale=en&layout=compact" alt="zaidasifmalik" />
+</p>
