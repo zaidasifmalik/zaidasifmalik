@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaidasifmalik&label=Profile%20views&color=0e75b6&style=flat" alt="zaidasifmalik" /> </p>-->
 
-- 🌱 I’m currently learning **Django and React**
+- 🌱 I’m currently working with **FastAPI and Next.js**
   
 - 💡 Side interests: **Startups and Marketing**
 
